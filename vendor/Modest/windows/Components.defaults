@@ -1,0 +1,6 @@
+﻿{
+	"components": [
+		"Modest.Language.dll",
+		"Modest.Automaton.dll"
+	]
+}

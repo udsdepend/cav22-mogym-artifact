@@ -1,0 +1,5 @@
+This artifact contains a binary version of the Modest Toolset and a Docker image containing different tools including CPython and the necessary Python packages. For these tools, their own respective licenses apply. The license of the Modest Toolset can be found in the respective directory in the `vendor` directory. All these licenses permit the artifact to be evaluated for CAV22.
+
+Momba is available under the MIT license (https://github.com/koehlma/momba/blob/main/LICENSE).
+
+Scripts provided by the authors for this artifact are also published under the MIT license.

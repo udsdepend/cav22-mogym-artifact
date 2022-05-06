@@ -1,0 +1,14 @@
+PRE
+threads:1
+STD-H
+-ca fcn.py
+STD-E
+-nnw 22 64 64 41
+-nnf fcn
+-ed 0.99
+-ne 8000
+-es 1
+-ee 0.001
+-ed 0.99
+EXEC
+[[python, learn_elevators.py, -s 1],[]]

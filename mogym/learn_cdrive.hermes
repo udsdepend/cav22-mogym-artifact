@@ -1,0 +1,16 @@
+PRE
+threads:1
+STD-H
+-ca fcn.py
+STD-E
+-nnw 7 64 64 45
+-nnf fcn
+-ed 0.999
+-ee 0.05
+-es 0.05
+-pef 1000
+-pr 1
+-nr -0.2
+-g 0.99
+EXEC
+PROD([[python, learn_cdrive.py, -ne 10000, -s {s}],[]], s =[1,2,3,4,5,6])

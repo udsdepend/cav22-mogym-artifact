@@ -1,0 +1,3 @@
+/Users/timopgros/work/projects/momba-learning/.venv/lib/python3.9/site-packages/momba/model/expressions.py:212: UserWarning: converting a real constant to a float may result in a loss of precision
+  warnings.warn(
+[2022-01-20 13:34:24,978] Device set to cpu

@@ -1,0 +1,9 @@
+.git
+.venv
+.devcontainer
+.vscode
+dist
+cav22-mogym.image.tar
+archive
+build/artifact/
+build/artifact.zip
